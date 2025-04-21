@@ -5,9 +5,6 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 🌐 Live Demo
 
 [View Portfolio Live](https://m-usman-k.github.io)  
-> Replace with your actual deployed URL
-
----
 
 ## ✨ Features
 
